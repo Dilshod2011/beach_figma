@@ -99,14 +99,19 @@ header{
 }
 
 .countries-img img{
-    width: 1200px;
-    height: 430px;
+    width: 500px;
+    height: 500px;
+}
+
+.countries-img2 img{
+    width: 500px;
+    height: 400px;
 }
 
 .CTP{
     display: flex;
     justify-content: center;
-    gap: 300px;
+    gap: 400px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: #7f2736;
 }
